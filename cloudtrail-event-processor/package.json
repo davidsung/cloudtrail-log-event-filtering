@@ -1,0 +1,17 @@
+{
+  "name": "cloudtrail-event-processor",
+  "version": "1.0.0",
+  "description": "CloudTrail Event Processor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudtrail"
+  ],
+  "author": "David Sung",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0"
+  }
+}
